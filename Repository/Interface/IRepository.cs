@@ -1,0 +1,6 @@
+﻿namespace FarmITDotNet.Repository.Interface
+{
+    public interface IRepository
+    {
+    }
+}
